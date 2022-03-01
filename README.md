@@ -1,4 +1,4 @@
-# Recommendation system of beers and users. 
+# Recommendation system of beers and reviewers. 
 Data taken from:
 https://www.kaggle.com/rdoume/beerreviews
 Data split into test, train and val datasets. Given that this is a univeristy assignment the test dataset, as shown has no label (review), is used as a holdout set which we predict on and then are graded on.
