@@ -23,12 +23,12 @@ If set to false will predict on the test set for all algorithms.
 
 The following algorithms (suprise library) are run in the following order:
 
-KNNwithMeans (A3-2.tsv)  
-SVD (A3-3.tsv)  
-SVDpp (A3-1.tsv)  
+KNNwithMeans (output file: A3-2.tsv)  
+SVD (output file: A3-3.tsv)  
+SVDpp (output file: A3-1.tsv)  
 SlopeOne  
 CoClustering  
-Hybrid (Ensemble of SVDpp and KNNwithMeans) (A3-4.tsv)
+Hybrid (Ensemble of SVDpp and KNNwithMeans) (output file: A3-4.tsv)
 
 
 BEFORE RUNNING:
