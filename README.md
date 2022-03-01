@@ -6,7 +6,9 @@ Data split into test, train and val datasets. Given that this is a univeristy as
 
 Train set is used to train our data and the val dataset we predict on and validate how well the algorithm did. 
 
-Due to file size train set has been split into 3 files (train1, train2, train3). When runnning please recombine into one file (train.tsv)
+Due to file size train set has been split into 3 files (train1, train2, train3). When runnning please recombine into one file (train.tsv).
+
+Simple MAE (mean average error) is used to calcuate the efficiency of the algorithms.
 
 
 
