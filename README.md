@@ -1,6 +1,7 @@
 # Recommendation system of beers and reviewers. 
 Data taken from:
 https://www.kaggle.com/rdoume/beerreviews
+
 Data split into test, train and val datasets. Given that this is a univeristy assignment the test dataset, as shown has no label (review), is used as a holdout set which we predict on and then are graded on.
 Train set is used to train our data and the val dataset we predict on and validate how well the algorithm did. 
 
