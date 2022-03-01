@@ -1,3 +1,7 @@
+Recommendation system of beers and users. Data taken from ...
+
+Exploring the best collaborative based algorithms for this dataset.
+
 A3.py has sweep parameter (default set to false) (will need to open and edit file if you wish to change it)
 
 If sweep is set to true will perform a gridsearch of all algorithms and print best hyperparameters to console.
