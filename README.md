@@ -1,6 +1,11 @@
-Recommendation system of beers and users. Data taken from ...
+# Recommendation system of beers and users. 
+Data taken from:
+https://www.kaggle.com/rdoume/beerreviews
+Data split into test, train and val datasets. Given that this is a univeristy assignment the test dataset, as shown has no label (review), is used as a holdout set which we predict on and then are graded on.
+Train set is used to train our data and the val dataset we predict on and validate how well the algorithm did. 
 
-Exploring the best collaborative based algorithms and their hyperparamters for this dataset.
+
+## For this project I explore the best collaborative based algorithms and their hyperparamters for this dataset.
 
 A3.py has sweep parameter (default set to false) (will need to open and edit file if you wish to change it)
 
