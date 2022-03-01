@@ -19,7 +19,7 @@ If set to false will predict on the test set for all algorithms.
 
 
 
-The following algorithms are run in the following order:
+The following algorithms (suprise library) are run in the following order:
 
 KNNwithMeans (A3-2.tsv)  
 SVD (A3-3.tsv)  
