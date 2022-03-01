@@ -1,6 +1,6 @@
 Recommendation system of beers and users. Data taken from ...
 
-Exploring the best collaborative based algorithms for this dataset.
+Exploring the best collaborative based algorithms and their hyperparamters for this dataset.
 
 A3.py has sweep parameter (default set to false) (will need to open and edit file if you wish to change it)
 
